@@ -13,7 +13,4 @@ you can hit me to chat or with q's on here, goosenet or on ze twitter :triumph:
 ## website
 check out goosenet for the thoughts & musings of a semi-informed degen making their way
 
-## weekly solidity projects
-i tend to work in public , most implementations of the smart contract examples here can be found on there as well  :handshake:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgenghisgoose&layout=compact&theme=onedark)](https://github.com/0xgenghisgoose/github-readme-stats)
