@@ -9,8 +9,5 @@ you can hit me to chat or with q's on here, goosenet or on ze twitter :triumph:
 <a href="https://twitter.com/0xgenghisgoose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="0xgenghisgoose" height="40px" width="40px" /></a>
   
 <p align="left"> <a href="https://twitter.com/0xgenghisgoose" target="blank"><img src="https://img.shields.io/twitter/follow/0xgenghisgoose?logo=twitter&style=for-the-badge" alt="0xgenghisgoose" /> </p>
- 
-## website
-check out goosenet for the thoughts & musings of a semi-informed degen making their way
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgenghisgoose&layout=compact&theme=onedark)](https://github.com/0xgenghisgoose/github-readme-stats)
