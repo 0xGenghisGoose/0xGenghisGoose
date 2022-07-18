@@ -10,4 +10,3 @@ you can hit me to chat or with q's on here, goosenet or on ze twitter :triumph:
   
 <p align="left"> <a href="https://twitter.com/0xgenghisgoose" target="blank"><img src="https://img.shields.io/twitter/follow/0xgenghisgoose?logo=twitter&style=for-the-badge" alt="0xgenghisgoose" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xgenghisgoose&layout=compact&theme=onedark)](https://github.com/0xgenghisgoose/github-readme-stats)
